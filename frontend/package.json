@@ -1,0 +1,17 @@
+{
+  "name": "discovery-frontend",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-vue": "^6.0.4",
+    "vue": "^3.5.28"
+  },
+  "devDependencies": {
+    "vite": "^5.1.0"
+  }
+}
